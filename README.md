@@ -45,3 +45,11 @@ scripts/patch-nsis.mjs Parche de electron-builder para builds sin wine
 - Clic izquierdo + arrastrar: rotar
 - Clic derecho + arrastrar: desplazar
 - Rueda: zoom
+
+## Descargar la app (Windows)
+
+Los instaladores están en la carpeta [`downloads/`](./downloads):
+
+- **Opción fácil**: descarga [`RaiderScriptsStudio-Setup-3.0.0.exe`](./downloads/RaiderScriptsStudio-Setup-3.0.0.exe) y haz doble clic.
+- **ZIP portable completo** (instalador .exe + `Instalar.py` + portable): descarga las 2 partes (`RaiderScriptsStudio-v3.0.0.zip.00` y `.01`), ponlas en la misma carpeta y ejecuta `UNIR-ZIP.bat` para reconstruir el ZIP.
+- Instrucciones completas en [`downloads/INSTRUCCIONES.txt`](./downloads/INSTRUCCIONES.txt).
