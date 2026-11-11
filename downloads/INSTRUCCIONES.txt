@@ -2,11 +2,12 @@
   COMO DESCARGAR E INSTALAR
 ==========================================================
 
-OPCION A - INSTALADOR DIRECTO (la mas facil)
---------------------------------------------
-1. Descarga: RaiderScriptsStudio-Setup-3.0.0.exe
+OPCION A - INSTALLER.EXE (la mas facil, UN SOLO ARCHIVO)
+--------------------------------------------------------
+1. Descarga: INSTALLER.EXE
 2. Doble clic -> Siguiente -> Siguiente -> Instalar
-3. Se crea el icono en tu escritorio. Sin internet, sin admin.
+3. Se crea el icono en tu escritorio. Sin internet, sin admin,
+   sin partes, sin ZIP: todo va dentro de ese unico archivo.
 
 OPCION B - ZIP PORTABLE COMPLETO (instalador .exe + Python + portable)
 ----------------------------------------------------------------------
