@@ -1,0 +1,24 @@
+==========================================================
+  COMO DESCARGAR E INSTALAR
+==========================================================
+
+OPCION A - INSTALADOR DIRECTO (la mas facil)
+--------------------------------------------
+1. Descarga: RaiderScriptsStudio-Setup-3.0.0.exe
+2. Doble clic -> Siguiente -> Siguiente -> Instalar
+3. Se crea el icono en tu escritorio. Sin internet, sin admin.
+
+OPCION B - ZIP PORTABLE COMPLETO (instalador .exe + Python + portable)
+----------------------------------------------------------------------
+1. Descarga TODAS las partes:
+   RaiderScriptsStudio-v3.0.0.zip.00
+   RaiderScriptsStudio-v3.0.0.zip.01
+2. Ponlas en la MISMA carpeta.
+3. Doble clic en: UNIR-ZIP.bat  -> se crea el ZIP completo.
+4. Descomprime el ZIP y elige:
+   - RaiderScriptsStudio-Setup-3.0.0.exe  (instalador clasico)
+   - Instalar.py                          (instalador Python, deja el .exe en tu escritorio)
+   - Ejecutar sin instalar.bat            (portable, sin instalar)
+
+NOTA: si SmartScreen avisa (instalador sin firma), pulsa
+"Mas informacion" -> "Ejecutar de todas formas".
